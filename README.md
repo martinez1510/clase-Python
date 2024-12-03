@@ -1,2 +1,0 @@
-#FUNDAMENTOS DE PROGRAMACION
-Ing en informatica 1A6
